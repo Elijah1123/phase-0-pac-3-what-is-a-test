@@ -22,7 +22,7 @@ describe('what-is-a-test', () => {
       expect(message).toInclude(name)
       expect(message).toInclude(height)
     })
-  })
+  }
 })
 */
 
